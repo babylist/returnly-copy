@@ -1,0 +1,14 @@
+# Package Delivered: Instant Refund
+# The email that is sent when a package is delivered after an instant refund
+
+Your return was delivered
+
+Hi {{SHOPPER_NAME}},
+
+Your returned items were delivered to {{STORE_NAME}}.
+
+You will receive a refund to your original payment method for 100% of your unused Instant Refund once the return is processed.
+
+{{instaref_summary_table 'Instant Refund'}}
+Team Returnly
+help@returnly.com

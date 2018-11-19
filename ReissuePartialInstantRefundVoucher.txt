@@ -1,0 +1,25 @@
+# Reissue Partial Instant Refund Voucher
+# The email that is sent after an Instant Refund has been partially used, and another voucher has been reissued (Magento only).
+
+Your remaining {{INSTAREF_AMOUNT}} Refund Voucher
+
+Hi {{SHOPPER_NAME}}!
+
+The remaining balance of {{INSTAREF_AMOUNT}} for your Instant Refund™ from {{STORE_NAME}} is below.
+
+Instant Refund™ Voucher:
+{{GIFTCARD_CODE}}
+
+Here's how you can use this voucher to buy again:
+
+1. Visit {{STORE_URL}}
+
+2. Redeem the voucher {{GIFTCARD_CODE}} in the gift card field at checkout.
+
+3. Pay any remaining amount due with an accepted payment method.
+
+Shop Now
+
+You will receive a refund for any outstanding Instant Refund balance after your return is received.
+
+P.S. Don't forget to return the item(s) you originally ordered using the {{shipping_label 'pre-paid shipping label'}}

@@ -1,0 +1,12 @@
+# Return Rejected
+# The first email that's sent to a shopper when a return is rejected
+
+Your product return request was cancelled
+
+Hi {{SHOPPER_NAME}},
+{{STORE_NAME}} cancelled your return for the following reason:
+
+{{CAUSE_OF_CANCEL}}
+
+{{merchant_message 'A message just for you:'}}
+We hope to see you again soon shopping at {{STORE_NAME}}!

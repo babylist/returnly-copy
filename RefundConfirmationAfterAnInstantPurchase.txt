@@ -1,0 +1,17 @@
+# Refund Confirmation (After an Instant Repurchase)
+# The email that is sent to confirm the refund for the shopper after an instant repurchase was made
+
+Your refund is complete
+
+Exciting news {{SHOPPER_NAME}}!
+This email confirms your {{REFUND_AMOUNT}} refund.
+
+Because this is a refund of a previous instant repurchase, the funds will be credited to a gift card with code:
+
+{{GIFT_CARD_CODE}}
+
+You can redeem using this code in the gift card field at checkout.
+
+Thanks for shopping at {{STORE_NAME}}!
+
+{{merchant_message 'A message just for you:'}}

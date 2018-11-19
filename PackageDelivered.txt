@@ -1,0 +1,9 @@
+# Package Delivered
+# The email that is sent when a package is delivered
+
+Your return was delivered
+
+Exciting news {{SHOPPER_NAME}}!
+Your return was delivered to {{STORE_NAME}}.
+
+Once the return has been processed, you will receive an update.

@@ -1,0 +1,26 @@
+Return Accepted: Gift Exchange Instant Refund
+The first email that's sent to a shopper when a gift exchange instant refund return is accepted by merchant
+
+Time To Choose The Right Gift
+
+Exciting news {{SHOPPER_NAME}}!
+
+Your {{INSTAREF_AMOUNT}} Instant Refund™ from {{STORE_NAME}} is below.
+
+Instant Refund™ Voucher:
+{{GIFTCARD_CODE}}
+
+Now, let's get you exactly what you want...
+
+1. Visit {{STORE_URL}}
+
+2. Redeem the voucher {{GIFTCARD_CODE}} in the gift card field at checkout.
+
+3. Pay any remaining amount due with an accepted payment method.
+
+Buy Now
+
+P.S. Don't forget to return the gift that you are exchanging! Use the {{shipping_label 'provided shipping label'}}
+
+Team Returnly
+help@returnly.com

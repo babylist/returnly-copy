@@ -1,0 +1,16 @@
+# Repurchase Summary
+# This email is sent when the shopper repurchases at your store with an Instant Refund
+
+Your {{STORE_NAME}} Instant Refund Purchase
+
+Hi {{SHOPPER_NAME}},
+
+Great choice! You’ve successfully used your Instant Refund from {{STORE_NAME}}.
+
+Your current Instant Refund balance is {{INSTAREF_BALANCE}}. Any remaining value may be used towards another purchase.
+
+If you haven’t already, please return the item(s) you originally purchased using the provided shipping label. Once your return is processed, you’ll get a refund to your original payment method for any unused portion of your Instant Refund.
+
+P.S. If your return is not shipped within {{CANCEL_IN_DAYS}} days, you will be billed for {{INSTAREF_AMOUNT_USED}}, the value of the Instant Refund used.
+
+PRINT RETURN LABEL

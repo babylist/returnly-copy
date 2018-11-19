@@ -1,0 +1,25 @@
+# Exempt from Returning: Instant Refund
+# The email that is sent when a shopper is not required to return their purchase in order to receive an Instant Refund
+
+Your {{STORE_NAME}} return
+
+Exciting news {{SHOPPER_NAME}}!
+
+Thank you for shopping with us! There's no need for a shipping label, because as a show of our appreciation for your patronage, we're going to let you keep the item. Hopefully you have a friend, co-worker or loved-one who would enjoy having it :) No worries, your money will still be refunded. Have a great day!
+
+Your {{INSTAREF_AMOUNT}} Instant Refund™ from {{STORE_NAME}} is below.
+
+Instant Refund™ Voucher:
+{{GIFTCARD_CODE}}
+
+Here's how you can use this voucher to buy again:
+
+1. Visit {{STORE_URL}}
+
+2. Redeem the voucher {{GIFTCARD_CODE}} in the gift card field at checkout.
+
+3. Pay any remaining amount due with an accepted payment method.
+
+If you have any questions, reply to this email or contact us: {{STORE_SUPPORT_EMAIL}}
+
+Shop Now

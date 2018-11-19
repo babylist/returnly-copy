@@ -1,0 +1,10 @@
+# Exempt from Returning: Repurchase Summary
+# This email is sent when the shopper is exempt from returning their purchase and repurchases at your store with an Instant Refund
+
+Instant Refund Purchase
+
+Hi {{SHOPPER_NAME}},
+
+Great choice! You’ve successfully used your Instant Refund from {{STORE_NAME}}.
+
+Your current Instant Refund balance is {{INSTAREF_BALANCE}}. Any remaining value may be used towards another purchase.

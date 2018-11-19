@@ -1,0 +1,15 @@
+# Package Delivered: Negative Refund
+# The email that is sent when a package is delivered and the shopper has a negative balance
+
+Your refund from {{STORE_NAME}}
+
+Hi {{SHOPPER_NAME}},
+
+Your return was received by {{STORE_NAME}} and additional fees were deducted from the original estimated refund based on the merchant’s returns policy.
+
+{{repurchase_records 'Instant Refund'}}
+You will be billed for the refund overage caused by using your Instant Refund on a new purchase and returning item(s) with a lower value than the original estimated refund.
+
+{{instaref_negative_refund_table 'Instant Refund'}}
+Team Returnly
+help@returnly.com

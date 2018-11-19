@@ -1,0 +1,14 @@
+# Package Not Delivered, Instant Refund Not Used
+# The email that is sent when a package has not been returned, and the instant refund has not been used
+
+Your return was canceled
+
+Hi {{SHOPPER_NAME}},
+
+Your return was not shipped to {{STORE_NAME}} within {{CANCEL_IN_DAYS}} days from acceptance of the Instant Refund and has been canceled.
+
+Below is your Instant Refunds summary. You may keep the originally purchased item(s).
+
+{{package_not_delivered_instaref_not_used_table 'Instant Refund'}}
+Team Returnly
+help@returnly.com

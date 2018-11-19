@@ -1,0 +1,20 @@
+# Return Accepted
+# The first email that's sent to a shopper when a return is accepted by merchant
+
+Next Step: Return Item(s)
+
+Exciting news {{SHOPPER_NAME}}!
+
+You can now return the item(s) you originally ordered using the provided shipping label.
+
+Quick tips to streamline your return:
+
+1. Pack the item(s) along with any accessories.
+
+2. Remove any previous mailing labels from the shipping box.
+
+3. Take your package to any {{CARRIER}} location.
+
+Download Shipping Label
+
+{{merchant_message 'A message just for you:'}}

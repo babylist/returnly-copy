@@ -1,0 +1,10 @@
+# Exempt from Returning, Instant Refund Used
+# The email that is sent when a shopper is not required to return their purchase, and they have received and spent all or part of their Instant Refund
+
+Your {{STORE_NAME}} return
+
+Hi {{SHOPPER_NAME}}!
+
+You have been refunded the amount due to your original payment method. Any remaining Instant Refund voucher is now inactive. Remember, as our thanks to you - no need to return your item this time. We hope you've gifted it to someone who enjoys it :) Thank you again for shopping with us, and have a great day!
+
+If you have any questions, reply to this email or contact us: {{STORE_SUPPORT_EMAIL}}

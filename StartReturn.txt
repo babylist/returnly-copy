@@ -1,0 +1,12 @@
+# Start Return
+# The first email that's sent to a shopper when starting a return
+
+Your {{STORE_NAME}} return
+
+Hi {{SHOPPER_NAME}},
+
+We are sorry your order didn’t work out. Let’s get your return started.
+
+Click on the button below and choose the item(s) you’d like to return. You’ll get a refund estimate right away.
+
+Start a Return

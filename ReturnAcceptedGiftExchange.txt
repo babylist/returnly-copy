@@ -1,0 +1,21 @@
+# Return Accepted: Gift Exchange
+# The first email that's sent to a shopper when a gift exchange return is accepted by merchant
+
+Next Step: Return Gift
+
+Great news {{SHOPPER_NAME}}!
+
+Your gift exchange has been authorized. Now, let’s get you what you really want…
+
+{{merchant_message 'A message just for you:'}}
+Here’s what you will need to do next.
+
+1. Download and print your return shipping label.
+
+2. Pack the item(s) along with any accessories. You can use your original shipping packaging, or your own. Please be sure to remove any previous mailing labels on the box, or completely cover it with the new label.
+
+3. Take your package to any {{CARRIER}} location.
+
+Download Shipping Label
+
+We will stay in touch and notify you when the gift that you wish to exchange is received. If you have changed your mind and would rather keep your item(s), please let us know so your request can be canceled.

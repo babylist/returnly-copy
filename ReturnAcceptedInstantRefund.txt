@@ -1,0 +1,28 @@
+# Return Accepted: Instant Refund
+# The first email that's sent to a shopper when a instant refund return is accepted by merchant
+
+Your {{INSTAREF_AMOUNT}} Refund Voucher
+
+Exciting news {{SHOPPER_NAME}}!
+
+Your {{INSTAREF_AMOUNT}} Instant Refund™ from {{STORE_NAME}} is below.
+
+Instant Refund™ Voucher:
+{{GIFTCARD_CODE}}
+
+Here's how you can use this voucher to buy again:
+
+1. Visit {{STORE_URL}}
+
+2. Redeem the voucher {{GIFTCARD_CODE}} in the gift card field at checkout.
+
+3. Pay any remaining amount due with an accepted payment method.
+
+Buy Now
+
+You will receive a refund for any outstanding Instant Refund balance after your return is received.
+
+P.S. Don't forget to return the item(s) you originally ordered using the {{shipping_label 'pre-paid shipping label'}}
+
+Team Returnly
+help@returnly.com

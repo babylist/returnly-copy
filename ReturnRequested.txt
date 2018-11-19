@@ -1,0 +1,10 @@
+# Return Requested
+# The first email that's sent to a shopper when requesting a return
+
+Your pending {{STORE_NAME}} return request
+
+Hi {{SHOPPER_NAME}},
+
+Thank you for your recent product return request at {{STORE_NAME}}.
+
+We will follow up with further details as soon as your request is reviewed.

@@ -1,0 +1,11 @@
+# Refund Confirmation
+# The email that is sent to confirm the refund for the shopper
+
+Your refund is complete
+
+Exciting news {{SHOPPER_NAME}}!
+{{REFUND_AMOUNT}} has been refunded.
+
+Thanks for shopping at {{STORE_NAME}}!
+
+{{merchant_message 'A message just for you:'}}
