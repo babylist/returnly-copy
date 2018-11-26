@@ -10,5 +10,5 @@ Your return was not shipped to {{STORE_NAME}} within {{CANCEL_IN_DAYS}} days fro
 Below is your Instant Refunds summary. You may keep the originally purchased item(s).
 
 {{package_not_delivered_instaref_not_used_table 'Instant Refund'}}
-Team Returnly
-help@returnly.com
+Babylist
+{{STORE_SUPPORT_EMAIL}}

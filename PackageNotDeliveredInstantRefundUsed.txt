@@ -12,5 +12,5 @@ You will be billed for {{INSTAREF_AMOUNT_USED}}, the entire portion of the Insta
 Please reach out to help@returnly.com if you wish to complete your return and avoid being billed.
 
 {{package_not_delivered_instaref_used_table 'Instant Refund'}}
-Team Returnly
-help@returnly.com
+Babylist
+{{STORE_SUPPORT_EMAIL}}

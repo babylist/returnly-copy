@@ -22,5 +22,5 @@ Buy Now
 
 P.S. Don't forget to return the gift that you are exchanging! Use the {{shipping_label 'provided shipping label'}}
 
-Team Returnly
-help@returnly.com
+Babylist
+{{STORE_SUPPORT_EMAIL}}

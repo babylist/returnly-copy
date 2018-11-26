@@ -11,5 +11,5 @@ Your return was received by {{STORE_NAME}} and additional fees were deducted fro
 You will be billed for the refund overage caused by using your Instant Refund on a new purchase and returning item(s) with a lower value than the original estimated refund.
 
 {{instaref_negative_refund_table 'Instant Refund'}}
-Team Returnly
-help@returnly.com
+Babylistt
+support@babylist.com
