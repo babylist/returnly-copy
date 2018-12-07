@@ -7,8 +7,9 @@ Hi {{SHOPPER_NAME}},
 
 We are sorry your order didn’t work out. Let’s get your return started.
 
-Click on the button below and choose the item(s) you’d like to return. You’ll get a refund estimate right away.
+Click on the button below and choose the item(s) you’d like to return. You’ll get a refund estimate right away, and we'll issue your refund within 3-5 business days after your return arrives.
 
-Please note that only items that are unopened and in their original packaging are eligible for returns. 
+
+Please note that only items that are unopened and in their original packaging are eligible for a full refund. 
 
 Start a Return

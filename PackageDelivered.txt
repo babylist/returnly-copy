@@ -6,4 +6,4 @@ Your return was delivered
 Exciting news {{SHOPPER_NAME}}!
 Your return was delivered to {{STORE_NAME}}.
 
-Once the return has been processed, you will receive an update.
+You should receive a refund confirmation within 3-5 business days.
