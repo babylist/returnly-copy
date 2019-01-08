@@ -12,7 +12,7 @@ Instant Refund™ Voucher:
 
 Here's how you can use this voucher to buy again:
 
-1. Visit {{STORE_URL}}
+1. Visit https://www.babylist.com/store
 
 2. Redeem the voucher {{GIFTCARD_CODE}} in the gift card field at checkout.
 

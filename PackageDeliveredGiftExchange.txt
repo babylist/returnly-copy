@@ -12,7 +12,7 @@ Gift Card Code:
 
 Now, let's get you exactly what you want...
 
-1. Visit {{STORE_URL}}
+1. Visit https://www.babylist.com/store
 
 2. Redeem the voucher {{REFUND_GIFT_CARD_CODE}} in the gift card field at checkout.
 
